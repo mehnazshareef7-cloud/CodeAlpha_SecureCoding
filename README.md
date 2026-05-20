@@ -1,7 +1,7 @@
 # Secure Coding Review using VS Code
 ## Project Screenshot
 
-![Screenshot](image.png)
+![Screenshot](code.png)
 
 ## Overview
 
